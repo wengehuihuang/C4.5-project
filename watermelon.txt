@@ -1,0 +1,18 @@
+number, color, root, sound, texture, umbilical, touch, goodMelon
+1, green, curl, dullness, clear, sunken, hard, yes
+2, black,curl,dull,clear,sunken,hard,yes
+3,black,curl,dullness,clear,sunken,hard,yes
+4,green,curl,dull,clear,sunken,hard,yes
+5,white,curl,dullness,clear,sunken,hard,yes
+6,green,mid,dullness,clear,mid,soft,yes
+7,black,mid,dullness,mid,mid,soft,yes
+8,black,mid,dullness,clear,mid,hard,yes
+9,black,mid,dull,mid,mid,hard,no
+10,green,stiff,crisp,clear,flat,soft,no
+11,white,stiff,crisp,blurry,flat,hard,no
+12,white,curl,dullness,blurry,flat,soft,no
+13,green,mid,dullness,mid,sunken,hard,no
+14,white,mid,dull,mid,sunken,hard,no
+15,black,mid,dullness,clear,mid,soft,no
+16,white,curl,dullness,blurry,flat,hard,no
+17,green,curl,dull,mid,mid,hard,no
